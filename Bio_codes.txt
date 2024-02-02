@@ -1,0 +1,50 @@
+DNA Code 1
+    tac,tac,tcg,ctg,taa,ccc,ttg,cgg,tta,aca,cgg,ttg,gca,ctt,cga,ctg,tac,taa,ttg,cta,tca,act
+RNA
+    aug,aug,agc,gac,auu,ggg,aac,gcc,aau,ugu,gcc,aac,cgu,gaa,gcu,gac,aug,auu,aac,gau,agu,uga
+raw out
+    [start]msdignancanreadminds[end]
+edited out
+    ms dignan can read minds
+
+
+DNA Code 2
+    tac,gtg,taa,tgt,gta,ctt,tct,ctc,aaa,gcg,tag,ctt,ttg,cta,taa,gag,tag,ttt,ctc,ggg,taa,ctc,act
+RNA
+    aug,cac,auu,aca,cau,gaa,aga,gag,uuu,cgc,auc,gaa,aac,gau,auu,cuc,auc,aaa,gag,ccc,auu,gag,uga
+raw out
+    [start]hitherefriendilikepie[end]
+edited out
+    hi there friend i like pie
+
+
+DNA Code 3 
+    tac,ctg,ttg,cgt,tat,agg,taa,ttg,cgg,aat,aac,aac,taa,cac,tag,ttg,cca,tgg,gtg,taa,ttg,cca,agg,ctt,cag,ctt,tta,aca,cgg,tga,tcg,act
+RNA 
+    aug,gac,aac,gca,aua,ucc,auu,aac,gcc,uua,uug,uug,auu,gug,auc,aac,ggu,acc,cac,auu,aac,ggu,ucc,gaa,guc,gaa,aau,ugu,gcc,acu,agc,uga
+raw out
+    [start]dnaisinalllivingthingsevencats[end]
+edited out
+    dna is in all living things even cats
+
+
+DNA Code 4
+    tac,ata,ctc,acc,cgt,gca,ctt,cgg,agg,taa,gat,gag,atg,aaa,tag,tcg,gta,att
+RNA
+    aug,uau,gag,ugg,gca,cgu,gaa,gcc,ucc,auu,cua,cuc,uac,uuu,auc,agc,cau,uaa
+raw out
+    [start]yewareasillyfish[end]
+edited out
+    yew are a silly fish
+
+
+DNA Code 5 (done by me)
+    tac,tat,cta,tag,ctg,tgg,gta,tag,agg,acc,tat,tga,gtg,ggg,gcc,ccc,tct,cgg,tac,tag,ttg,ccc,att
+RNA
+    aug,aua,gau,auc,gac,acc,cau,auc,ucc,ugg,aua,acu,cac,ccc,cgg,ggg,aga,gcc,aug,auc,aac,ggg,uaa
+raw out 
+    [start]ididthiswithprgraming[end]
+edited out 
+    i did this with prgraming
+text entered
+    I did this with programing
